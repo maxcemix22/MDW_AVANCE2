@@ -1,0 +1,12 @@
+C:\Users\USER\Downloads\Proyecto-MarcoDeDesarrollo-main\backend\gestion-laboratorio\src\main\java\innovaschools\com\gestion_laboratorio\controller\EquipoController.java
+C:\Users\USER\Downloads\Proyecto-MarcoDeDesarrollo-main\backend\gestion-laboratorio\src\main\java\innovaschools\com\gestion_laboratorio\controller\LoginController.java
+C:\Users\USER\Downloads\Proyecto-MarcoDeDesarrollo-main\backend\gestion-laboratorio\src\main\java\innovaschools\com\gestion_laboratorio\controller\ReservaController.java
+C:\Users\USER\Downloads\Proyecto-MarcoDeDesarrollo-main\backend\gestion-laboratorio\src\main\java\innovaschools\com\gestion_laboratorio\controller\UsuarioController.java
+C:\Users\USER\Downloads\Proyecto-MarcoDeDesarrollo-main\backend\gestion-laboratorio\src\main\java\innovaschools\com\gestion_laboratorio\GestionLaboratorioApplication.java
+C:\Users\USER\Downloads\Proyecto-MarcoDeDesarrollo-main\backend\gestion-laboratorio\src\main\java\innovaschools\com\gestion_laboratorio\model\Equipo.java
+C:\Users\USER\Downloads\Proyecto-MarcoDeDesarrollo-main\backend\gestion-laboratorio\src\main\java\innovaschools\com\gestion_laboratorio\model\LoginRequest.java
+C:\Users\USER\Downloads\Proyecto-MarcoDeDesarrollo-main\backend\gestion-laboratorio\src\main\java\innovaschools\com\gestion_laboratorio\model\Reserva.java
+C:\Users\USER\Downloads\Proyecto-MarcoDeDesarrollo-main\backend\gestion-laboratorio\src\main\java\innovaschools\com\gestion_laboratorio\model\Usuario.java
+C:\Users\USER\Downloads\Proyecto-MarcoDeDesarrollo-main\backend\gestion-laboratorio\src\main\java\innovaschools\com\gestion_laboratorio\repository\EquipoRepository.java
+C:\Users\USER\Downloads\Proyecto-MarcoDeDesarrollo-main\backend\gestion-laboratorio\src\main\java\innovaschools\com\gestion_laboratorio\repository\UsuarioRepository.java
+C:\Users\USER\Downloads\Proyecto-MarcoDeDesarrollo-main\backend\gestion-laboratorio\src\main\java\innovaschools\com\gestion_laboratorio\service\JwtService.java
